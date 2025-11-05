@@ -1,7 +1,7 @@
 {
   "name": "ameliore-legacy",
   "version": "1.0.0",
-  "description": "Tool to improve the quality of legacy code.",
+  "description": "A tool designed to enhance the quality and maintainability of legacy code.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
